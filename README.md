@@ -1,6 +1,6 @@
 # Renderer of 2D DNA animated image
 
-This project was wrote for course of "Computer Graphics" which I've listened in MUCTR. Lectures were read by Solomonova N.D. In writing the program was inspired by Natasha (Sway4ka) Fedosova
+This project was written for course of "Computer Graphics" which I've listened in MUCTR. Solomonova N.D had read these lectures. In writing the program inspired by Natasha (Sway4ka) Fedosova.
 
 ===
 
@@ -8,4 +8,4 @@ This project was wrote for course of "Computer Graphics" which I've listened in 
 
 ===
 
-The program is writen in the ancient Turbo C++ 3.0.
+The program is written in the ancient Turbo C++ 3.0.
